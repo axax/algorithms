@@ -1,4 +1,4 @@
-package TrappingWater;
+package TrappingRainWater;
 
 public class Main {
 
